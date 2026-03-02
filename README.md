@@ -19,24 +19,18 @@ Hello! I'm a science student from Kolkata, passionate about music, coding, and c
 
 ---
 
-### 🧰 Languages and Tools
+## 💼 Skills
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Qt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
-<br />
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,qt,gtk,bash,linux,latex,html,css,js,nodejs,figma,ableton,spotify,git,svg,docker,md,pr,ps)](https://skillicons.dev)
 
-#
+## 🖥️ Workstation
 
-### 📊 Stats
+[![My Workstation](https://skillicons.dev/icons?i=arch,debian,vscode,vscodium,sublime,atom,neovim,mint,ubuntu,pycharm,clion)](https://skillicons.dev)
 
-![Sampreet's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=imsamroy&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imsamroy&show_icons=true&theme=dark&layout=compact)
+## 📊 Stats
+
+[![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=imsamroy&show_icons=true&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imsamroy&layout=compact&theme=dracula)](https://github.com/Pranesh-2005/github-readme-stats)
 <!---
 imsamroy/imsamroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
