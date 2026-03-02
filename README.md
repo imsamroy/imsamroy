@@ -2,7 +2,7 @@
 
 **`STEM and Music enthusiast (Science/Linux/Violin)`**
 
-Hello! I'm a science student from Kolkata, passionate about music, coding, and creating cool projects. I play the violin and collaborate with my band on original compositions and covers.
+Hello! I'm a student from Kolkata, India passionate about STEM, music and in general creating cool stuff. I play the violin and make music with some friends in a band.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/sampreet-roy-048856368">
