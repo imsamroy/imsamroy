@@ -21,7 +21,7 @@ Hello! I'm a science student from Kolkata, passionate about music, coding, and c
 
 ## 💼 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,qt,gtk,bash,linux,latex,html,css,js,nodejs,figma,ableton,git,svg,docker,md,pr,ps,instagram,twitter,spotify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,qt,gtk,bash,linux,latex,html,css,js,nodejs,figma,ableton,git,svg,docker,md,pr,ps,instagram,twitter,spotify,linkedin)](https://skillicons.dev)
 
 ## 🖥️ Workstation
 
